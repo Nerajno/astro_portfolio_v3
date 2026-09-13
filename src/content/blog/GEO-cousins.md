@@ -22,20 +22,20 @@ keywords: [SEO vs AEO vs GEO vs LLMO, generative engine optimization, answer eng
 - GEO's Cousins: Making Sense of SEO, AEO, GEO, and LLMO *(this post)*
 
 
-If you read the first two posts in this series, you already know what GEO is and how to implement it in an Astro project. Good. Keep that mental model — you're going to need it, because GEO isn't the only new acronym around.
+If you read the first two posts in this series, you already know what GEO is and how to implement it in an Astro project (you can search for other examples). Good. Keep that mental model — you're going to need it, because GEO isn't the only new acronym around. 
 
 Scroll through any good tech-based marketing blog right now and you'll run into AEO, LLMO, AIO, and a handful of vendor-invented variants, all claiming to be the thing that replaces SEO. The thing is that they didn't replace it. They're overlapping lenses on the same underlying shift — content discovery expanding from a ranked list of links to a mix of ranked links, extracted answers, generative summaries, and AI-mediated conversations.
 
 One caveat before we go further: none of these terms — AEO, GEO, LLMO, AIO — are standardized industry disciplines with fixed definitions. They emerged from a mix of researchers, vendor based practices, and  practitioners over the last two to three years, and you'll may real disagreement about where one ends and another begins. Treat what follows as a useful working guide, not a  bull-proof spec.
 
-## The Short Version
+## The Short Version of Definitions
 
-- **SEO** helps eligible content get crawled, indexed, and ranked in traditional search results.
-- **AEO** aims to make content easy for answer-oriented systems — featured snippets, voice assistants, answer boxes — to extract and present. No particular format guarantees selection.
-- **GEO** aims to improve the likelihood that generative search systems can find, use, attribute, or summarize your content.
-- **LLMO** is a commonly used label for entity clarity and accurate representation — helping a model describe your brand, project, or name correctly when it's drawing on what's publicly known about you.
+- **SEO (Search Engine Optimization)** helps eligible content get crawled, indexed, and ranked in traditional search results.
+- **AEO (Answer Engine Optimization)** aims to make content easy for answer-oriented systems — featured snippets, voice assistants, answer boxes — to extract and present. No particular format guarantees selection.
+- **GEO (Generative Engine Optimization)** aims to improve the likelihood that generative search systems can find, use, attribute, or summarize your content.
+- **LLMO (Large Language Model Optimization)** is a commonly used label for entity clarity and accurate representation — helping a model describe your brand, project, or name correctly when it's drawing on what's publicly known about you.
 
-They're four angles on the same question — will an algorithm or a model find, understand, and choose to use my content? — applied at different points in the discovery pipeline.
+They're four angles on the same question — will an algorithm or a model find, understand, and choose to use my content? — applied at different points in the content discovery pipeline.
 
 ## Defining Each One
 
